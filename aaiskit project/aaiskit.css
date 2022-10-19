@@ -1,0 +1,99 @@
+.bg-img {
+
+    background-image: url("cafefront.jpg");
+
+    min-height: 550px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+}
+
+.background
+{
+    background-image: url("cafeintro.jpg");
+
+    min-height: 550px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+}
+.text {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.diningbg
+{
+    background-image: url("short.jpg");
+
+    min-height: 550px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    position: relative;
+}
+.container {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+#home {
+    font-family: Georgia, serif;
+    font-size: 17px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#info {
+    font-family: Georgia, serif;
+    font-size: 17px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#dining {
+    font-family: Georgia, serif;
+    font-size: 17px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#events {
+    font-family: Georgia, serif;
+    font-size: 17px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
